@@ -1,6 +1,6 @@
 // Profile Service
 
-const helper = require("../helper/userProfile.helper");
+const helper = require("../helper/userprofile.helper");
 
 const service = {
 
